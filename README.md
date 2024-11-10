@@ -13,7 +13,7 @@
 
 [NLP_LAB_08](https://github.com/Matam-Rohith/NLP/blob/main/NLP_LAB_08.ipynb)
 
-[NLP_LAB_08](https://github.com/Matam-Rohith/NLP/blob/main/NLP_LAB_09.ipynb)
+[NLP_LAB_09](https://github.com/Matam-Rohith/NLP/blob/main/NLP_LAB_09.ipynb)
 
 
 
